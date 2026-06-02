@@ -1,0 +1,74 @@
+﻿sheet_name,row_index,chapter,subchapter,code_article,parent_code,sub_code,product_name,unite,quantite,prix_unitaire,montant,confidence
+descriptif,0,A/,"ÉVACUATION EAUX PLUVIALES, EAUX USÉES ET EAUX VANNES",A-01,,,Tuyau PVC Évacuation,ml,,,,0.7
+descriptif,1,A/,"ÉVACUATION EAUX PLUVIALES, EAUX USÉES ET EAUX VANNES",A-02,,,Tuyau PVC Pression,ml,,,,0.7
+descriptif,2,A/,"ÉVACUATION EAUX PLUVIALES, EAUX USÉES ET EAUX VANNES",A-03,,,Siphon de Sol,U,,,,0.7
+descriptif,3,A/,"ÉVACUATION EAUX PLUVIALES, EAUX USÉES ET EAUX VANNES",A-04,,,Garde Grève,U,,,,0.7
+descriptif,4,A/,"ÉVACUATION EAUX PLUVIALES, EAUX USÉES ET EAUX VANNES",A-05,,,Station de Relevage,ensemble,,,,0.7
+descriptif,5,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-01,,,Équipement Compteur d'Eau,ensemble,,,,0.7
+descriptif,6,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-02,,,Tube Polypropylène PPR,ml,,,,0.7
+descriptif,7,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-03,,,Vanne d'Arrêt,U,,,,0.7
+descriptif,8,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-04,,,Chauffe Eau Électrique,U,,,,0.7
+descriptif,9,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-05,,,Anti-Bélier,U,,,,0.7
+descriptif,10,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-06,,,Robinet de Puisage,U,,,,0.7
+descriptif,11,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-07,,,Équipement Bassin d'Eau,ensemble,,,,0.7
+descriptif,12,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,1,Poste de Filtration,U,,,,0.7
+descriptif,13,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,2,Préfiltration – Groupe Électropompe,U,,,,0.7
+descriptif,14,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,3,Traitement d’Eau Bassin,U,,,,0.7
+descriptif,15,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,4,Pièces à Sceller,U,,,,0.7
+descriptif,16,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,5,Éclairage,U,,,,0.7
+descriptif,17,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,6,Réseau Hydraulique,ml,,,,0.7
+descriptif,18,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,7,Armoire Électrique et Câblage,U,,,,0.7
+descriptif,19,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,8,Citerne en PEHD,U,,,,0.7
+descriptif,21,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-08,,,Attente Arrosage,ensemble,,,,0.7
+descriptif,22,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-09,,,Tube Polyéthylène Ligne Bleu,ml,,,,0.7
+descriptif,23,C/,APPAREILS SANITAIRES (POSE),C-01,,,Évier,U,,,,0.7
+descriptif,24,C/,APPAREILS SANITAIRES (POSE),C-02,,,Lavabo-Vasque,U,,,,0.7
+descriptif,25,C/,APPAREILS SANITAIRES (POSE),C-03,,,W.C Siège à l'Anglaise,U,,,,0.7
+descriptif,26,C/,APPAREILS SANITAIRES (POSE),C-04,,,Bidet,U,,,,0.7
+descriptif,27,C/,APPAREILS SANITAIRES (POSE),C-05,,,Douche à l'Italienne,ensemble,,,,0.7
+descriptif,28,D/,ACCESSOIRES (POSE),D-01,,,Porte Rouleau WC,U,,,,0.7
+descriptif,29,D/,ACCESSOIRES (POSE),D-02,,,Distributeur de Savon Liquide,U,,,,0.7
+descriptif,30,D/,ACCESSOIRES (POSE),D-03,,,Sèche-Mains à Air Pulse,U,,,,0.7
+descriptif,31,D/,ACCESSOIRES (POSE),D-04,,,Glace Miroir,U,,,,0.7
+descriptif,32,E/,PROTECTION INCENDIE,E-01,,,Extincteur Portatif,U,,,,0.7
+descriptif,33,E/,PROTECTION INCENDIE,E-02,,,Bac à Sable,ensemble,,,,0.7
+descriptif,34,E/,PROTECTION INCENDIE,E-03,,,Poteau Incendie,ensemble,,,,0.7
+descriptif,35,F/,CLIMATISATION,F-01,,,Groupe Extérieure VRV ou DRV à 02 Tubes,ensemble,,,,0.7
+descriptif,36,F/,CLIMATISATION,F-02,,,Régulation,ensemble,,,,0.7
+descriptif,37,F/,CLIMATISATION,F-03,,,Kit de Raccordement,ensemble,,,,0.7
+descriptif,38,F/,CLIMATISATION,F-04,,,Tubes Frigorifiques Calorifugée et Electrique,ensemble,,,,0.7
+descriptif,39,F/,CLIMATISATION,F-05,,,Bus de Communication,ensemble,,,,0.7
+descriptif,40,F/,CLIMATISATION,F-06,,,Évacuation Condensat,ml,,,,0.7
+descriptif,41,F/,CLIMATISATION,F-07,,,Unité Gainable à 02 tubes,ensemble,,,,0.7
+descriptif,42,F/,CLIMATISATION,F-08,,,Split Système,ensemble,,,,0.7
+descriptif,43,F/,CLIMATISATION,F-09,,,Gaine en Laine de Verre (Fiber Glass),m²,,,,0.7
+descriptif,44,F/,CLIMATISATION,F-10,,,Grille de Soufflage,U,,,,0.7
+descriptif,45,F/,CLIMATISATION,,F-10,a,Grille de Soufflage Linéaire,U,,,,0.7
+descriptif,46,F/,CLIMATISATION,,F-10,b,Grille de Soufflage Carré,U,,,,0.7
+descriptif,50,F/,CLIMATISATION,F-11,,,Gaine Flexible Calorifugée en Aluminium,ml,,,,0.7
+descriptif,51,F/,CLIMATISATION,F-12,,,Gaine Circulaire Spirale,ml,,,,0.7
+descriptif,52,F/,CLIMATISATION,F-13,,,Gaine Rectangulaire en Tôle Galvanisée,m²,,,,0.7
+descriptif,53,F/,CLIMATISATION,F-14,,,Caisson d’Air Neuf,ensemble,,,,0.7
+descriptif,54,F/,CLIMATISATION,F-15,,,Clapet de Dosage,U,,,,0.7
+descriptif,55,F/,CLIMATISATION,F-16,,,Clapet Pare Flamme 1/2H,U,,,,0.7
+descriptif,56,F/,CLIMATISATION,F-17,,,Armoire Électrique et Câblage,ensemble,,,,0.7
+descriptif,57,F/,CLIMATISATION,,F-17,a1,Armoire UI Clim Étages,U,,,,0.7
+descriptif,58,F/,CLIMATISATION,,F-17,a2,Armoire Clim + Ventilation Terrasse,U,,,,0.7
+descriptif,59,F/,CLIMATISATION,,F-17,b,Câble et Chemin de Câble,ml,,,,0.7
+descriptif,60,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-01,,,Caisson d'Extraction,ensemble,,,,0.7
+descriptif,61,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-02,,,Gaine Circulaire Spirale,ml,,,,0.7
+descriptif,62,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-03,,,Gaine en Tôle Noire Calorifugée,m²,,,,0.7
+descriptif,63,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-04,,,Ventouse d'Extraction,U,,,,0.7
+descriptif,64,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-05,,,Grille d'Extraction,U,,,,0.7
+descriptif,65,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-06,,,Grille de Rejet,U,,,,0.7
+descriptif,66,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,,G-06,a,Clapet Coupe-Feu 1H AutoCommandé,U,,,,0.7
+descriptif,67,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,,G-06,b,Grille de Rejet,U,,,,0.7
+descriptif,68,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-07,,,Clapet Anti-Retour,U,,,,0.7
+descriptif,69,H/,DÉSENFUMAGE,H-01,,,Caisson d’Extraction de Désenfumage,ensemble,,,,0.7
+descriptif,70,H/,DÉSENFUMAGE,H-02,,,Coffret de Relayage,ensemble,,,,0.7
+descriptif,71,H/,DÉSENFUMAGE,H-03,,,Arrêts Pompiers et Réarmements,ensemble,,,,0.7
+descriptif,72,H/,DÉSENFUMAGE,,H-03,a,Arrêts Pompier,U,,,,0.7
+descriptif,73,H/,DÉSENFUMAGE,,H-03,b,Réarmement,U,,,,0.7
+descriptif,74,H/,DÉSENFUMAGE,H-04,,,Diffuseur de Désenfumage,U,,,,0.7
+descriptif,75,H/,DÉSENFUMAGE,H-05,,,Gaine de Désenfumage,m²,,,,0.7
+descriptif,76,H/,DÉSENFUMAGE,H-06,,,Exutoire 1m²,U,,,,0.7

@@ -1,0 +1,179 @@
+sheet_name,row_index,line_type,lot,chapter,subchapter,code_article,designation,unite,quantite,prix_unitaire,montant,confidence
+Feuil1,5,chapter,,A/ Evacuation EP .EV. EU.,,,A/ Evacuation EP .EV. EU.,,,,,0.73
+Feuil1,7,subchapter,,A/ Evacuation EP .EV. EU.,Tuyau P.V.C évacuation,A-01,Tuyau P.V.C évacuation,,,,,0.81
+Feuil1,9,item,,A/ Evacuation EP .EV. EU.,Tuyau P.V.C évacuation,A-01.a,Tuyau P.V.C évacuation | diam.40,ML,71.0,,,0.99
+Feuil1,11,item,,A/ Evacuation EP .EV. EU.,Tuyau P.V.C évacuation,A-01.b,Tuyau P.V.C évacuation | diam.50,ML,11.0,,,0.99
+Feuil1,13,item,,A/ Evacuation EP .EV. EU.,Tuyau P.V.C évacuation,A-01.c,Tuyau P.V.C évacuation | diam.75,ML,52.0,,,0.99
+Feuil1,15,item,,A/ Evacuation EP .EV. EU.,Tuyau P.V.C évacuation,A-01.d,Tuyau P.V.C évacuation | diam.110,ML,128.0,,,0.99
+Feuil1,17,item,,A/ Evacuation EP .EV. EU.,Tuyau P.V.C évacuation,A-01.e,Tuyau P.V.C évacuation | diam.125 à 160,ML,154.0,,,0.99
+Feuil1,19,subchapter,,A/ Evacuation EP .EV. EU.,Tuyau P.V.C pression,A-02,Tuyau P.V.C pression,,,,,0.81
+Feuil1,21,item,,A/ Evacuation EP .EV. EU.,Tuyau P.V.C pression,A-02,Tuyau P.V.C pression | diam.160,ML,65.0,,,0.99
+Feuil1,23,subchapter,,A/ Evacuation EP .EV. EU.,Siphon de sol,A-03,Siphon de sol,,,,,0.81
+Feuil1,24,item,,A/ Evacuation EP .EV. EU.,Siphon de sol,A-03,Siphon de sol,U,10.0,,,0.99
+Feuil1,26,subchapter,,A/ Evacuation EP .EV. EU.,Garde grève (jardinière),A-04,Garde grève (jardinière),,,,,0.81
+Feuil1,28,item,,A/ Evacuation EP .EV. EU.,Garde grève (jardinière),A-04,Garde grève (jardinière) | diam.110,U,3.0,,,0.99
+Feuil1,30,subchapter,,A/ Evacuation EP .EV. EU.,Station de Relevage,A-05,Station de Relevage,,,,,0.81
+Feuil1,33,item,,A/ Evacuation EP .EV. EU.,Station de Relevage,A-05.a,"Station de Relevage | Débit unitaire: 2 x 25,0 l/s P= 10 Mce | (Pression à verifié par l'entreprise)",E,1.0,,,0.99
+Feuil1,36,item,,A/ Evacuation EP .EV. EU.,Station de Relevage,A-05.b,"Station de Relevage | Débit unitaire: 2 x 25,0 l/s P= 25 Mce (avec broyeur) | (Pression à verifié par l'entreprise)",E,1.0,,,0.99
+Feuil1,38,subtotal,,A/ Evacuation EP .EV. EU.,,,Sous-total A,,,,0.0,0.77
+Feuil1,40,chapter,,B/ Alimentation eau froide et chaude,,,B/ Alimentation eau froide et chaude,,,,,0.73
+Feuil1,42,subchapter,,B/ Alimentation eau froide et chaude,Equipement compteur d'eau,B-01,Equipement compteur d'eau,,,,,0.81
+Feuil1,44,item,,B/ Alimentation eau froide et chaude,Equipement compteur d'eau,B-01,Equipement compteur d'eau | Compteur eau potable,E,1.0,,,0.99
+Feuil1,46,subchapter,,B/ Alimentation eau froide et chaude,Tube Polypropylene PPR,B-02,Tube Polypropylene PPR,,,,,0.81
+Feuil1,48,item,,B/ Alimentation eau froide et chaude,Tube Polypropylene PPR,B-02.a,Tube Polypropylene PPR | diam.25 à 32,ML,185.0,,,0.99
+Feuil1,50,item,,B/ Alimentation eau froide et chaude,Tube Polypropylene PPR,B-02.c,Tube Polypropylene PPR | diam.40 à 50,ML,32.0,,,0.99
+Feuil1,52,subchapter,,B/ Alimentation eau froide et chaude,Vanne d'arrêt,B-03,Vanne d'arrêt,,,,,0.81
+Feuil1,54,item,,B/ Alimentation eau froide et chaude,Vanne d'arrêt,B-03.a,Vanne d'arrêt | diam.25 à 32,U,15.0,,,0.99
+Feuil1,56,item,,B/ Alimentation eau froide et chaude,Vanne d'arrêt,B-03.c,Vanne d'arrêt | diam.40 à 50,U,1.0,,,0.99
+Feuil1,58,subchapter,,B/ Alimentation eau froide et chaude,Chauffe eau électrique,B-04,Chauffe eau électrique,,,,,0.81
+Feuil1,60,item,,B/ Alimentation eau froide et chaude,Chauffe eau électrique,B-04.a,Chauffe eau électrique | 15 litres (sanitaires commun),E,4.0,,,0.99
+Feuil1,62,item,,B/ Alimentation eau froide et chaude,Chauffe eau électrique,B-04.b,Chauffe eau électrique | 30 litres (cuisine),E,1.0,,,0.99
+Feuil1,64,item,,B/ Alimentation eau froide et chaude,Chauffe eau électrique,B-04.c,Chauffe eau électrique | 50 litres (sanitaires PDG),E,1.0,,,0.99
+Feuil1,66,subchapter,,B/ Alimentation eau froide et chaude,Anti-belier,B-05,Anti-belier,,,,,0.81
+Feuil1,67,item,,B/ Alimentation eau froide et chaude,Anti-belier,B-05,Anti-belier,U,2.0,,,0.99
+Feuil1,69,subchapter,,B/ Alimentation eau froide et chaude,Robinet de puisage,B-06,Robinet de puisage,,,,,0.81
+Feuil1,71,item,,B/ Alimentation eau froide et chaude,Robinet de puisage,B-06,Robinet de puisage | diam.20,U,1.0,,,0.99
+Feuil1,73,subchapter,,B/ Alimentation eau froide et chaude,Equipement bassin d'eau,B-07,Equipement bassin d'eau,,,,,0.81
+Feuil1,82,item,,B/ Alimentation eau froide et chaude,Equipement bassin d'eau,B-07,Equipement bassin d'eau | Citerne en PEHD bleu,E,1.0,,,0.99
+Feuil1,84,subchapter,,B/ Alimentation eau froide et chaude,Attente Arrosage,B-08,Attente Arrosage,,,,,0.81
+Feuil1,85,item,,B/ Alimentation eau froide et chaude,Attente Arrosage,B-08,Attente Arrosage,E,5.0,,,0.99
+Feuil1,87,subchapter,,B/ Alimentation eau froide et chaude,Tube polyethylene ligne bleu,B-09,Tube polyethylene ligne bleu,,,,,0.81
+Feuil1,89,item,,B/ Alimentation eau froide et chaude,Tube polyethylene ligne bleu,B-09.a,Tube polyethylene ligne bleu | diam.32 à 40,ML,147.0,,,0.99
+Feuil1,91,item,,B/ Alimentation eau froide et chaude,Tube polyethylene ligne bleu,B-09.b,Tube polyethylene ligne bleu | diam.50 à 63,ML,19.0,,,0.99
+Feuil1,93,subtotal,,B/ Alimentation eau froide et chaude,,,Sous-total B,,,,0.0,0.77
+Feuil1,95,chapter,,C/ Appareils sanitaires (Pose),,,C/ Appareils sanitaires (Pose),,,,,0.73
+Feuil1,97,subchapter,,C/ Appareils sanitaires (Pose),Evier,C-01,Evier,,,,,0.81
+Feuil1,98,item,,C/ Appareils sanitaires (Pose),Evier,C-01,Evier,E,1.0,,,0.99
+Feuil1,100,subchapter,,C/ Appareils sanitaires (Pose),Lavabo-Vasque,C-02,Lavabo-Vasque,,,,,0.81
+Feuil1,101,item,,C/ Appareils sanitaires (Pose),Lavabo-Vasque,C-02,Lavabo-Vasque,E,11.0,,,0.99
+Feuil1,103,subchapter,,C/ Appareils sanitaires (Pose),WC-Siège à L’anglaise Suspendu,C-03,WC-Siège à L’anglaise Suspendu,,,,,0.81
+Feuil1,104,item,,C/ Appareils sanitaires (Pose),WC-Siège à L’anglaise Suspendu,C-03,WC-Siège à L’anglaise Suspendu,E,13.0,,,0.99
+Feuil1,106,subchapter,,C/ Appareils sanitaires (Pose),Bidet,C-04,Bidet,,,,,0.81
+Feuil1,107,item,,C/ Appareils sanitaires (Pose),Bidet,C-04,Bidet,E,5.0,,,0.99
+Feuil1,109,subchapter,,C/ Appareils sanitaires (Pose),Douche à l'Italienne,C-05,Douche à l'Italienne,,,,,0.81
+Feuil1,110,item,,C/ Appareils sanitaires (Pose),Douche à l'Italienne,C-05,Douche à l'Italienne,E,1.0,,,0.99
+Feuil1,112,subtotal,,C/ Appareils sanitaires (Pose),,,Sous-total C,,,,0.0,0.77
+Feuil1,115,chapter,,D/ Accessoires (Pose),,,D/ Accessoires (Pose),,,,,0.73
+Feuil1,117,subchapter,,D/ Accessoires (Pose),Porte rouleau wc,D-01,Porte rouleau wc,,,,,0.81
+Feuil1,118,item,,D/ Accessoires (Pose),Porte rouleau wc,D-01,Porte rouleau wc,U,13.0,,,0.99
+Feuil1,120,subchapter,,D/ Accessoires (Pose),Distributeur de savon liquide,D-02,Distributeur de savon liquide,,,,,0.81
+Feuil1,121,item,,D/ Accessoires (Pose),Distributeur de savon liquide,D-02,Distributeur de savon liquide,U,11.0,,,0.99
+Feuil1,123,subchapter,,D/ Accessoires (Pose),Séche Mains à Air Pulse,D-03,Séche Mains à Air Pulse,,,,,0.81
+Feuil1,124,item,,D/ Accessoires (Pose),Séche Mains à Air Pulse,D-03,Séche Mains à Air Pulse,U,9.0,,,0.99
+Feuil1,126,subchapter,,D/ Accessoires (Pose),Glace Miroir,D-04,Glace Miroir,,,,,0.81
+Feuil1,127,item,,D/ Accessoires (Pose),Glace Miroir,D-04,Glace Miroir,U,11.0,,,0.99
+Feuil1,129,subtotal,,D/ Accessoires (Pose),,,Sous-total D,,,,0.0,0.77
+Feuil1,131,chapter,,E/ Protection incendie,,,E/ Protection incendie,,,,,0.73
+Feuil1,133,subchapter,,E/ Protection incendie,Extincteurs portatifs,E-01,Extincteurs portatifs,,,,,0.81
+Feuil1,135,item,,E/ Protection incendie,Extincteurs portatifs,E-01.a,Extincteurs portatifs | extincteur à CO2 de 2 kg,U,7.0,,,0.99
+Feuil1,137,item,,E/ Protection incendie,Extincteurs portatifs,E-01.b,Extincteurs portatifs | extincteur à poudre polyvalente de 6 kg,U,4.0,,,0.99
+Feuil1,139,item,,E/ Protection incendie,Extincteurs portatifs,E-01.c,Extincteurs portatifs | extincteur à eau pulverisee de 6 L,U,14.0,,,0.99
+Feuil1,141,subchapter,,E/ Protection incendie,bac à sable,E-02,bac à sable,,,,,0.81
+Feuil1,142,item,,E/ Protection incendie,bac à sable,E-02,bac à sable,U,1.0,,,0.99
+Feuil1,144,subchapter,,E/ Protection incendie,Poteau incendie,E-03,Poteau incendie,,,,,0.81
+Feuil1,145,item,,E/ Protection incendie,Poteau incendie,E-03,Poteau incendie,E,1.0,,,0.99
+Feuil1,147,subtotal,,E/ Protection incendie,,,Sous-total E,,,,0.0,0.77
+Feuil1,149,chapter,,F/ CLIMATISATION,,,F/ CLIMATISATION,,,,,0.73
+Feuil1,151,subchapter,,F/ CLIMATISATION,Groupe exterieur VRV 2 TUBES,F-01,Groupe exterieur VRV 2 TUBES,,,,,0.81
+Feuil1,156,item,,F/ CLIMATISATION,Groupe exterieur VRV 2 TUBES,F-01,Groupe exterieur VRV 2 TUBES | Puissance frigorifique sera déterminer en fonction de la puissance sensible et la longueur du tubing | Pf =42 à 45 KW à 35°C ext - BUREAUX N/E | Puissance à définir par logiciel fournisseur à 100%,E,2.0,,,0.99
+Feuil1,158,subchapter,,F/ CLIMATISATION,Régulation,F-02,Régulation,,,,,0.81
+Feuil1,160,item,,F/ CLIMATISATION,Régulation,F-02,Régulation | Télécommande FILAIRE à cable,E,28.0,,,0.99
+Feuil1,162,subchapter,,F/ CLIMATISATION,Kit de raccordement,F-03,Kit de raccordement,,,,,0.81
+Feuil1,163,item,,F/ CLIMATISATION,Kit de raccordement,F-03,Kit de raccordement,E,28.0,,,0.99
+Feuil1,165,subchapter,,F/ CLIMATISATION,Tubes frigorifique calorifugées,F-04,Tubes frigorifique calorifugées,,,,,0.81
+Feuil1,167,item,,F/ CLIMATISATION,Tubes frigorifique calorifugées,F-04,Tubes frigorifique calorifugées | 02 tubes,E,2.0,,,0.99
+Feuil1,169,subchapter,,F/ CLIMATISATION,Bus de communication,F-05,Bus de communication,,,,,0.81
+Feuil1,171,item,,F/ CLIMATISATION,Bus de communication,F-05,Bus de communication | 02 tubes,E,2.0,,,0.99
+Feuil1,173,subchapter,,F/ CLIMATISATION,Evacuation condensat,F-06,Evacuation condensat,,,,,0.81
+Feuil1,175,item,,F/ CLIMATISATION,Evacuation condensat,F-06.a,Evacuation condensat | diam.32,ML,254.0,,,0.99
+Feuil1,177,item,,F/ CLIMATISATION,Evacuation condensat,F-06.b,Evacuation condensat | diam.50,ML,48.0,,,0.99
+Feuil1,179,subchapter,,F/ CLIMATISATION,Unité Gainable 02 Tubes,F-07,Unité Gainable 02 Tubes,,,,,0.81
+Feuil1,182,item,,F/ CLIMATISATION,Unité Gainable 02 Tubes,F-07.a,"Unité Gainable 02 Tubes | Ps = 2,0 à 2,8 Kw | Pr= 50 à 150 Pas Pression à vérifier par l'entreprise",E,15.0,,,0.99
+Feuil1,185,item,,F/ CLIMATISATION,Unité Gainable 02 Tubes,F-07.b,"Unité Gainable 02 Tubes | Ps = 3,2 à 3,7 Kw | Pr= 50 à 150 Pas Pression à vérifier par l'entreprise",E,7.0,,,0.99
+Feuil1,188,item,,F/ CLIMATISATION,Unité Gainable 02 Tubes,F-07.c,"Unité Gainable 02 Tubes | Ps = 4,0 à 4,6 Kw | Pr= 50 à 150 Pas Pression à vérifier par l'entreprise",E,3.0,,,0.99
+Feuil1,191,item,,F/ CLIMATISATION,Unité Gainable 02 Tubes,F-07.d,"Unité Gainable 02 Tubes | Ps = 5,0 à 6,0 Kw | Pr= 50 à 150 Pas Pression à vérifier par l'entreprise",E,3.0,,,0.99
+Feuil1,193,subchapter,,F/ CLIMATISATION,Split système,F-08,Split système,,,,,0.81
+Feuil1,195,subchapter,,F/ CLIMATISATION,"Pt = 2,0 à 3,0 Kw",a-1,"Pt = 2,0 à 3,0 Kw",,,,,0.81
+Feuil1,197,item,,F/ CLIMATISATION,"Pt = 2,0 à 3,0 Kw",a-1,"Pt = 2,0 à 3,0 Kw | Pr= Pression à vérifier par l'entreprise",E,3.0,,,0.99
+Feuil1,198,subchapter,,F/ CLIMATISATION,"Pt = 4,2 à 5,2 Kw",a-2,"Pt = 4,2 à 5,2 Kw",,,,,0.81
+Feuil1,200,item,,F/ CLIMATISATION,"Pt = 4,2 à 5,2 Kw",a-2,"Pt = 4,2 à 5,2 Kw | Pr= Pression à vérifier par l'entreprise",E,3.0,,,0.99
+Feuil1,201,subchapter,,F/ CLIMATISATION,"Pt = 6,0 à 7,1 Kw",a-3,"Pt = 6,0 à 7,1 Kw",,,,,0.81
+Feuil1,203,item,,F/ CLIMATISATION,"Pt = 6,0 à 7,1 Kw",a-3,"Pt = 6,0 à 7,1 Kw | Pr= Pression à vérifier par l'entreprise",E,3.0,,,0.99
+Feuil1,206,subchapter,,F/ CLIMATISATION,Pt = 9 000 btu,b-1,Pt = 9 000 btu,,,,,0.81
+Feuil1,207,item,,F/ CLIMATISATION,Pt = 9 000 btu,b-1,Pt = 9 000 btu,E,1.0,,,0.99
+Feuil1,208,subchapter,,F/ CLIMATISATION,Pt = 12 000 btu,b-2,Pt = 12 000 btu,,,,,0.81
+Feuil1,209,item,,F/ CLIMATISATION,Pt = 12 000 btu,b-2,Pt = 12 000 btu,E,3.0,,,0.99
+Feuil1,211,subchapter,,F/ CLIMATISATION,Gaine en laine de Verre (Fiber Glass),F-09,Gaine en laine de Verre (Fiber Glass),,,,,0.81
+Feuil1,212,item,,F/ CLIMATISATION,Gaine en laine de Verre (Fiber Glass),F-09,Gaine en laine de Verre (Fiber Glass) | le mètre carré,M2,549.0,,,0.99
+Feuil1,214,subchapter,,F/ CLIMATISATION,Grille de soufflage,F-10,Grille de soufflage,,,,,0.81
+Feuil1,216,subchapter,,F/ CLIMATISATION,Débit = 700 à 835 m3/h,a-1,Débit = 700 à 835 m3/h,,,,,0.81
+Feuil1,217,item,,F/ CLIMATISATION,Débit = 700 à 835 m3/h,a-1,Débit = 700 à 835 m3/h,U,4.0,,,0.99
+Feuil1,218,subchapter,,F/ CLIMATISATION,Débit = 1500 m3/h,a-2,Débit = 1500 m3/h,,,,,0.81
+Feuil1,219,item,,F/ CLIMATISATION,Débit = 1500 m3/h,a-2,Débit = 1500 m3/h,U,1.0,,,0.99
+Feuil1,221,subchapter,,F/ CLIMATISATION,Débit = 200 à 270 m3/h,b-1,Débit = 200 à 270 m3/h,,,,,0.81
+Feuil1,222,item,,F/ CLIMATISATION,Débit = 200 à 270 m3/h,b-1,Débit = 200 à 270 m3/h,U,16.0,,,0.99
+Feuil1,223,subchapter,,F/ CLIMATISATION,Débit = 500 à 5400 m3/h,b-1,Débit = 500 à 5400 m3/h,,,,,0.81
+Feuil1,224,item,,F/ CLIMATISATION,Débit = 500 à 5400 m3/h,b-1,Débit = 500 à 5400 m3/h,U,9.0,,,0.99
+Feuil1,226,subchapter,,F/ CLIMATISATION,Gaine flexible calorifugée en aluminium,F-11,Gaine flexible calorifugée en aluminium,,,,,0.81
+Feuil1,228,item,,F/ CLIMATISATION,Gaine flexible calorifugée en aluminium,F-11,Gaine flexible calorifugée en aluminium | diam.160 à 200,ML,37.0,,,0.99
+Feuil1,230,subchapter,,F/ CLIMATISATION,Gaine circulaire spiralée,F-12,Gaine circulaire spiralée,,,,,0.81
+Feuil1,232,item,,F/ CLIMATISATION,Gaine circulaire spiralée,F-12.a,Gaine circulaire spiralée | diam.100 à 125,ML,76.0,,,0.99
+Feuil1,234,item,,F/ CLIMATISATION,Gaine circulaire spiralée,F-12.b,Gaine circulaire spiralée | diam.160 à 200,ML,81.0,,,0.99
+Feuil1,236,subchapter,,F/ CLIMATISATION,Gaine rectangulaire en tole galvanisée,F-13,Gaine rectangulaire en tole galvanisée,,,,,0.81
+Feuil1,237,item,,F/ CLIMATISATION,Gaine rectangulaire en tole galvanisée,F-13,Gaine rectangulaire en tole galvanisée | le mètre carré,M2,74.0,,,0.99
+Feuil1,239,subchapter,,F/ CLIMATISATION,Caisson d'air neuf,F-14,Caisson d'air neuf,,,,,0.81
+Feuil1,242,item,,F/ CLIMATISATION,Caisson d'air neuf,F-14.a,Caisson d'air neuf | Débit = 1975 à 2000 m3/h Pr = 20mmCE | (Pression à verifié par l'entreprise),E,2.0,,,0.99
+Feuil1,244,subchapter,,F/ CLIMATISATION,Clapet de dosage,F-15,Clapet de dosage,,,,,0.81
+Feuil1,246,item,,F/ CLIMATISATION,Clapet de dosage,F-15.a,Clapet de dosage | diam.100 à 125,U,20.0,,,0.99
+Feuil1,248,item,,F/ CLIMATISATION,Clapet de dosage,F-15.b,Clapet de dosage | diam.160 à 200,U,12.0,,,0.99
+Feuil1,250,subchapter,,F/ CLIMATISATION,Clapet pare-flamme 1/2H,F-16,Clapet pare-flamme 1/2H,,,,,0.81
+Feuil1,252,item,,F/ CLIMATISATION,Clapet pare-flamme 1/2H,F-16.a,Clapet pare-flamme 1/2H | diam.200,U,1.0,,,0.99
+Feuil1,254,item,,F/ CLIMATISATION,Clapet pare-flamme 1/2H,F-16.b,Clapet pare-flamme 1/2H | dim.200×200 à 300×200,U,5.0,,,0.99
+Feuil1,256,subchapter,,F/ CLIMATISATION,Armoire éléctrique et cablage,F-17,Armoire éléctrique et cablage,,,,,0.81
+Feuil1,259,item,,F/ CLIMATISATION,Armoire éléctrique et cablage,F-17.a,Armoire éléctrique et cablage | Armoire éléctrique (TERRASSE) | CLIM + VENTILATION TERRASSE,E,1.0,,,0.99
+Feuil1,261,item,,F/ CLIMATISATION,Armoire éléctrique et cablage,F-17.b,Armoire éléctrique et cablage | Cable d'alimentation et chemin de cable,E,1.0,,,0.99
+Feuil1,263,subtotal,,F/ CLIMATISATION,,,Sous-total F,,,,0.0,0.77
+Feuil1,265,chapter,,G/ Ventilation VMC,,,G/ Ventilation VMC,,,,,0.73
+Feuil1,267,subchapter,,G/ Ventilation VMC,Caisson d'extraction V.M.C,G-01,Caisson d'extraction V.M.C,,,,,0.81
+Feuil1,270,item,,G/ Ventilation VMC,Caisson d'extraction V.M.C,G-01.a,Caisson d'extraction V.M.C | Débit = 200 m3/h Pr = 20mmCE | (Pression à verifié par l'entreprise),E,1.0,,,0.99
+Feuil1,273,item,,G/ Ventilation VMC,Caisson d'extraction V.M.C,G-01.b,Caisson d'extraction V.M.C | Débit = 360 m3/h Pr = 20mmCE | (Pression à verifié par l'entreprise),E,1.0,,,0.99
+Feuil1,275,subchapter,,G/ Ventilation VMC,Ventilateur de gaine,G-01,Ventilateur de gaine,,,,,0.81
+Feuil1,278,item,,G/ Ventilation VMC,Ventilateur de gaine,G-01.a,Ventilateur de gaine | Débit = 30 à 60 m3/h Pr = 20mmCE | (Pression à verifié par l'entreprise),E,2.0,,,0.99
+Feuil1,281,item,,G/ Ventilation VMC,Ventilateur de gaine,G-01.b,Ventilateur de gaine | Débit = 150 m3/h Pr = 20mmCE | (Pression à verifié par l'entreprise),E,1.0,,,0.99
+Feuil1,283,subchapter,,G/ Ventilation VMC,Gaine circulaire spiralée,G-02,Gaine circulaire spiralée,,,,,0.81
+Feuil1,285,item,,G/ Ventilation VMC,Gaine circulaire spiralée,G-02.a,Gaine circulaire spiralée | diam.100 à 125,ML,69.0,,,0.99
+Feuil1,287,item,,G/ Ventilation VMC,Gaine circulaire spiralée,G-02.b,Gaine circulaire spiralée | diam.160 à 200,ML,29.0,,,0.99
+Feuil1,289,subchapter,,G/ Ventilation VMC,Gaine en tole noire calorifugée (cuisine),G-03,Gaine en tole noire calorifugée (cuisine),,,,,0.81
+Feuil1,290,item,,G/ Ventilation VMC,Gaine en tole noire calorifugée (cuisine),G-03,Gaine en tole noire calorifugée (cuisine) | le mètre carré,M2,28.0,,,0.99
+Feuil1,292,subchapter,,G/ Ventilation VMC,Ventouse d'extraction,G-04,Ventouse d'extraction,,,,,0.81
+Feuil1,294,item,,G/ Ventilation VMC,Ventouse d'extraction,G-04.a,Ventouse d'extraction | Débit : 30 m3/h,U,15.0,,,0.99
+Feuil1,296,item,,G/ Ventilation VMC,Ventouse d'extraction,G-04.b,Ventouse d'extraction | Débit : 60 m3/h,U,1.0,,,0.99
+Feuil1,298,subchapter,,G/ Ventilation VMC,Grille d'extraction,G-05,Grille d'extraction,,,,,0.81
+Feuil1,300,item,,G/ Ventilation VMC,Grille d'extraction,G-05,Grille d'extraction | Débit : 100 à 150 m3/h,U,5.0,,,0.99
+Feuil1,302,subchapter,,G/ Ventilation VMC,Grille exterieure,G-06,Grille exterieure,,,,,0.81
+Feuil1,304,item,,G/ Ventilation VMC,Grille exterieure,G-06.a,Grille exterieure | Débit : 150 m3/h,U,2.0,,,0.99
+Feuil1,306,item,,G/ Ventilation VMC,Grille exterieure,G-06.b,Grille exterieure | Débit : 360 m3/h,U,1.0,,,0.99
+Feuil1,308,subchapter,,G/ Ventilation VMC,Clapet pare-flamme 1/2H,G-07,Clapet pare-flamme 1/2H,,,,,0.81
+Feuil1,310,item,,G/ Ventilation VMC,Clapet pare-flamme 1/2H,G-07.a,Clapet pare-flamme 1/2H | diam.100 à 125,U,8.0,,,0.99
+Feuil1,312,subchapter,,G/ Ventilation VMC,Clapet anti retour,G-08,Clapet anti retour,,,,,0.81
+Feuil1,314,item,,G/ Ventilation VMC,Clapet anti retour,G-08,Clapet anti retour | diam.100 à 125,U,1.0,,,0.99
+Feuil1,316,subtotal,,G/ Ventilation VMC,,,Sous-total G,,,,0.0,0.77
+Feuil1,318,chapter,,H/ Désenfumage,,,H/ Désenfumage,,,,,0.73
+Feuil1,320,subchapter,,H/ Désenfumage,Caisson d'extraction de désenfumage 400°C/2H,H-01,Caisson d'extraction de désenfumage 400°C/2H,,,,,0.81
+Feuil1,323,item,,H/ Désenfumage,Caisson d'extraction de désenfumage 400°C/2H,H-01.a,Caisson d'extraction de désenfumage 400°C/2H | Débit :12500/6250 + 10 % m3/h à 45 mmCE (parking) | (Pression à verifié par l'entreprise),E,1.0,,,0.99
+Feuil1,326,item,,H/ Désenfumage,Caisson d'extraction de désenfumage 400°C/2H,H-01.b,Caisson d'extraction de désenfumage 400°C/2H | Débit : 600 m3/h à 45 mmCE (cuisine) | (Pression à verifié par l'entreprise),E,1.0,,,0.99
+Feuil1,328,subchapter,,H/ Désenfumage,Coffret de relayage,H-02,Coffret de relayage,,,,,0.81
+Feuil1,329,item,,H/ Désenfumage,Coffret de relayage,H-02,Coffret de relayage,E,2.0,,,0.99
+Feuil1,331,subchapter,,H/ Désenfumage,Arrêts pompiers et réarmements,H-03,Arrêts pompiers et réarmements,,,,,0.81
+Feuil1,333,item,,H/ Désenfumage,Arrêts pompiers et réarmements,H-03.a,Arrêts pompiers et réarmements | Arrêts Pompier,E,2.0,,,0.99
+Feuil1,335,item,,H/ Désenfumage,Arrêts pompiers et réarmements,H-03.b,Arrêts pompiers et réarmements | Réarmement,E,2.0,,,0.99
+Feuil1,337,subchapter,,H/ Désenfumage,Diffuseur de désenfumage,H-04,Diffuseur de désenfumage,,,,,0.81
+Feuil1,339,item,,H/ Désenfumage,Diffuseur de désenfumage,H-04,Diffuseur de désenfumage | Débit = 4 167 m3/h,E,3.0,,,0.99
+Feuil1,341,subchapter,,H/ Désenfumage,Gaine de desenfumage,H-05,Gaine de desenfumage,,,,,0.81
+Feuil1,342,item,,H/ Désenfumage,Gaine de desenfumage,H-05,Gaine de desenfumage | le mètre carré,M2,123.0,,,0.99
+Feuil1,344,subchapter,,H/ Désenfumage,Exutoire,H-06,Exutoire,,,,,0.81
+Feuil1,346,item,,H/ Désenfumage,Exutoire,H-06,Exutoire | dim: 1m² utile,U,1.0,,,0.99
+Feuil1,348,subtotal,,H/ Désenfumage,,,Sous-total I,,,,0.0,0.77
+Feuil1,350,total,,,,,Total lot general HT,,,,0.0,0.77
+Feuil1,351,item,,H/ Désenfumage,Exutoire,T.V.A 20% =,T.V.A 20% =,T.V.A 20% =,0.2,0.2,,0.99
+Feuil1,352,total,,,,,Total lot general TTC,,,,,0.7

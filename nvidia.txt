@@ -1,0 +1,57 @@
+llama-3_2-nemoretriever-300m-embed-v1
+ :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
+
+ qwen3-coder-480b-a35b-instruct: from openai import OpenAI
+
+client = OpenAI(
+  base_url = "https://integrate.api.nvidia.com/v1",
+  api_key = "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"
+)
+
+completion = client.chat.completions.create(
+  model="qwen/qwen3-coder-480b-a35b-instruct",
+  messages=[{"role":"user","content":""}],
+  temperature=0.7,
+  top_p=0.8,
+  max_tokens=4096,
+  stream=True
+)
+
+for chunk in completion:
+  if chunk.choices and chunk.choices[0].delta.content is not None:
+    print(chunk.choices[0].delta.content, end="")
+
+-------------------------------
+
+import requests, base64
+
+invoke_url = "https://integrate.api.nvidia.com/v1/chat/completions"
+stream = True
+
+
+headers = {
+  "Authorization": "Bearer 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",
+  "Accept": "text/event-stream" if stream else "application/json"
+}
+
+payload = {
+  "model": "mistralai/mistral-large-3-675b-instruct-2512",
+  "messages": [{"role":"user","content":""}],
+  "max_tokens": 2048,
+  "temperature": 0.15,
+  "top_p": 1.00,
+  "frequency_penalty": 0.00,
+  "presence_penalty": 0.00,
+  "stream": stream
+}
+
+
+
+response = requests.post(invoke_url, headers=headers, json=payload)
+
+if stream:
+    for line in response.iter_lines():
+        if line:
+            print(line.decode("utf-8"))
+else:
+    print(response.json())

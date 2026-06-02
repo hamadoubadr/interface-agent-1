@@ -1,0 +1,131 @@
+﻿Equipement de branchement compteur général DN75
+Equipement de branchement compteur général DN65
+"Surpresseur EP 4 m3/h Etage 5,6 & 7"
+Nourrice 12 compteurs
+Nourrice 13 compteurs
+Nourrice 14 compteurs
+Nourrice 15 compteurs
+Nourrice 16 compteurs
+PVC PN16 DN75
+PVC PN16 DN63
+PPR diamètre Ø20
+PPR diamètre Ø25
+PPR diamètre Ø32
+PPR diamètre Ø40
+PPR diamètre Ø63
+PPR diamètre Ø75
+PER Ø13/16
+PER Ø16/20
+Coffret de distribution EF/ECS
+Ø32
+Ø40
+Anti-bélier
+Robinet de puisage
+Ø40
+Ø50
+Ø75
+Ø100 et Ø110
+Ø125
+Ø160
+Ø200
+Ø250
+Gargouille d'eau pluviale en plomb
+"Siphon de sol en inox, Localisation : Terrasses et balcons"
+Siphon de sol en fonte
+Fosse hydrocarbure TAILLE 6
+Fosse hydrocarbure TAILLE 10
+Station de relevage
+LAVABO VASQUE
+W-C SUSPENDU
+EQUIPEMENT DE DOUCHE
+LAVABO VASQUE
+W-C SUSPENDU
+EQUIPEMENT DE DOUCHE
+LAVABO VASQUE
+W-C SUSPENDU
+PLAN VASQUE EN CORIAN
+EQUIPEMENT DE DOUCHE
+W-C A L'ANGLAISE
+LAVE MAINS
+EQUIPEMENT DE DOUCHE
+POSE : BIDET
+POSE : BAIGNOIRE
+150 litres
+Equipement compteur eau incendie DN80
+Equipement bache à eau et local technique
+Station de surpression eau incendie RIA 35m3h
+Réseau d'incendie en PVC Pression DN75
+Réseau d'incendie en T.F.G RIA diamétre 40/49
+Réseau d'incendie en T.F.G CS diamétre 66/76
+Poste robinet d'incendie armé DN25
+Extincteur à CO2 de 5 Kg
+Extincteur à eau pulvérisée de 6 L
+Prise colonne séche Exterieure DN65
+Prise colonne séche Interieure DN40
+Bac à sable
+Robinet de vidange
+9 m3/h
+Canalisation PVC PN16
+Tout diamètre
+PIECES A SCELLER
+Bouche de Refoulement
+Skimmers
+Bonde de Fond 500x500 mm
+Prise balai
+Projecteur étanche
+Armoire électrique
+LAVABO VASQUE
+W-C SUSPENDU
+EQUIPEMENT DE DOUCHE
+LAVABO VASQUE
+W-C SUSPENDU
+EQUIPEMENT DE DOUCHE
+LAVABO VASQUE
+W-C SUSPENDU
+PLAN VASQUE EN CORIAN
+EQUIPEMENT DE DOUCHE
+W-C A L'ANGLAISE
+LAVE MAINS
+EQUIPEMENT DE DOUCHE
+BIDET
+BAIGNOIRE
+12 kW
+14 kW
+"15,5 kW"
+22.4 kW
+28kW
+"Gainable 2,8 kW"
+"Gainable 3,6 kW"
+"Gainable 4,5 kW"
+"Gainable 5,6 kW"
+"Gainable 7,1 kW"
+"Gainable 11,2 kW"
+Gainable 14 kW
+Liaisons frigorifiques
+Diamètre 32
+Gaine en Pré-isolée
+Ø 200 mm
+Ø 200 mm
+≤ 500 m3/h
+Gaine en tôle rectangulaire simple peau
+Ø 100 mm
+Ø 125 mm
+Ø 160 mm
+Ø 200 mm
+Ø 250 mm
+Bouche d'extraction VMC
+"S.UTILE = 1,0 m²"
+500x400
+700x600
+700x600
+Cartouche pare-flamme
+"GRILLE EXT DSF 0,12m²"
+"GRILLE EXT DSF 0,11m²"
+"VB S.UTILE =0,24 m²"
+"VB S.UTILE =0,31m²"
+Ventilateur axial EXT 38 880 m³/h
+Ventilateur axial EXT 29 520 m³/h
+Ventilateur axial EXT 40 320 m³/h
+Ventilateur axial AN 25 920 m³/h
+Ventilateur axial AN 17 550 m³/h
+Gaine COUPE FEU 2H DESENFUMAGE

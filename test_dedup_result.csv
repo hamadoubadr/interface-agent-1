@@ -1,0 +1,49 @@
+sheet_name,row_index,chapter,subchapter,code_article,parent_code,sub_code,product_name,unite,quantite,prix_unitaire,montant,confidence
+descriptif,0,A/,"ÉVACUATION EAUX PLUVIALES, EAUX USÉES ET EAUX VANNES",A-01,,,Tuyau PVC Évacuation,ml,,,,0.7
+descriptif,1,A/,"ÉVACUATION EAUX PLUVIALES, EAUX USÉES ET EAUX VANNES",A-02,,,Tuyau PVC Pression,ml,,,,0.7
+descriptif,2,A/,"ÉVACUATION EAUX PLUVIALES, EAUX USÉES ET EAUX VANNES",A-03,,,Siphon de Sol,U,,,,0.7
+descriptif,3,A/,"ÉVACUATION EAUX PLUVIALES, EAUX USÉES ET EAUX VANNES",A-04,,,Garde Grève,U,,,,0.7
+descriptif,4,A/,"ÉVACUATION EAUX PLUVIALES, EAUX USÉES ET EAUX VANNES",A-05,,,Station de Relevage,ensemble,,,,0.7
+descriptif,5,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-01,,,Équipement Compteur d'Eau,ensemble,,,,0.7
+descriptif,6,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-02,,,Tube Polypropylène PPR,ml,,,,0.7
+descriptif,7,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-03,,,Vanne d'Arrêt,U,,,,0.7
+descriptif,8,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-04,,,Chauffe Eau Électrique,U,,,,0.7
+descriptif,9,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-05,,,Anti-Bélier,U,,,,0.7
+descriptif,10,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-06,,,Robinet de Puisage,U,,,,0.7
+descriptif,11,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,B-07,,,Équipement Bassin d'Eau,ensemble,,,,0.7
+descriptif,12,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,1,Poste de Filtration,U,,,,0.7
+descriptif,13,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,2,Préfiltration – Groupe Électropompe,U,,,,0.7
+descriptif,14,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,3,Traitement d'Eau Bassin,ensemble,,,,0.7
+descriptif,15,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,4,Pièces à Sceller,ensemble,,,,0.7
+descriptif,16,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,5,Éclairage,ensemble,,,,0.7
+descriptif,17,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,6,Réseau Hydraulique,ensemble,,,,0.7
+descriptif,18,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,7,Armoire Électrique et Câblage,ensemble,,,,0.7
+descriptif,19,B/,ALIMENTATION EAU FROIDE – EAU CHAUDE,,B-07,8,Citerne en PEHD 1000L,U,,,,0.7
+descriptif,20,F/,CLIMATISATION,F-10,,,Grille de Soufflage Linéaire,U,,,,0.7
+descriptif,21,F/,CLIMATISATION,F-10,,,Grille de Soufflage Carré,U,,,,0.7
+descriptif,22,F/,CLIMATISATION,F-11,,,Gaine Flexible Calorifugée en Aluminium,ml,,,,0.7
+descriptif,23,F/,CLIMATISATION,F-12,,,Gaine Circulaire Spirale,ml,,,,0.7
+descriptif,24,F/,CLIMATISATION,F-13,,,Gaine Rectangulaire en Tôle Galvanisée,m²,,,,0.7
+descriptif,25,F/,CLIMATISATION,F-14,,,Caisson d'Air Neuf,ensemble,,,,0.7
+descriptif,26,F/,CLIMATISATION,F-15,,,Clapet de Dosage,U,,,,0.7
+descriptif,27,F/,CLIMATISATION,F-16,,,Clapet Pare Flamme 1/2H,ensemble,,,,0.7
+descriptif,28,F/,CLIMATISATION,F-17,,,Armoire Électrique et Câblage,ensemble,,,,0.7
+descriptif,29,F/,CLIMATISATION,,F-17,a1,Armoire UI Clim Étages,U,,,,0.7
+descriptif,30,F/,CLIMATISATION,,F-17,a2,Armoire Clim + Ventilation Terrasse,U,,,,0.7
+descriptif,31,F/,CLIMATISATION,,F-17,b,Câble et Chemin de Câble,ensemble,,,,0.7
+descriptif,32,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-01,,,Caisson d'Extraction,ensemble,,,,0.7
+descriptif,33,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-02,,,Gaine Circulaire Spirale,ml,,,,0.7
+descriptif,34,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-03,,,Gaine en Tôle Noire Calorifugée,m²,,,,0.7
+descriptif,35,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-04,,,Ventouse d'Extraction,U,,,,0.7
+descriptif,36,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-05,,,Grille d'Extraction,U,,,,0.7
+descriptif,37,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-06,,,Grille de Rejet,U,,,,0.7
+descriptif,38,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-06,,,Clapet Coupe Feu 1H Autocommandé,U,,,,0.7
+descriptif,39,G/,VENTILATION MÉCANIQUE CONTRÔLÉE,G-07,,,Clapet Anti-Retour,U,,,,0.7
+descriptif,40,H/,DÉSENFUMAGE,H-01,,,Caisson d'Extraction de Désenfumage,ensemble,,,,0.7
+descriptif,41,H/,DÉSENFUMAGE,H-02,,,Coffret de Relayage,ensemble,,,,0.7
+descriptif,42,H/,DÉSENFUMAGE,H-03,,,Arrêts Pompier et Réarmement,ensemble,,,,0.7
+descriptif,43,H/,DÉSENFUMAGE,,H-03,a,Arrêts Pompier,U,,,,0.7
+descriptif,44,H/,DÉSENFUMAGE,,H-03,b,Réarmement,U,,,,0.7
+descriptif,45,H/,DÉSENFUMAGE,H-04,,,Diffuseur de Désenfumage,U,,,,0.7
+descriptif,46,H/,DÉSENFUMAGE,H-05,,,Gaine de Désenfumage,m²,,,,0.7
+descriptif,47,H/,DÉSENFUMAGE,H-06,,,Exutoire 1m²,ensemble,,,,0.7

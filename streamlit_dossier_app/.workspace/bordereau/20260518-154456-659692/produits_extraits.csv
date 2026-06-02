@@ -1,0 +1,132 @@
+﻿sheet_name,row_index,chapter,subchapter,code_article,product_name,unite,quantite,prix_unitaire,montant,confidence
+PL,6,,BRANCHEMENT ET COMPTAGE,3.1.1.1,Equipement de branchement compteur général DN75,U,2.0,,0.0,0.99
+PL,7,,BRANCHEMENT ET COMPTAGE,3.1.1.2,Equipement de branchement compteur général DN65,U,4.0,,0.0,0.99
+PL,8,,BRANCHEMENT ET COMPTAGE,3.1.1.3,"Surpresseur EP 4 m3/h Etage 5,6 & 7 | L'unité d'ensemble",U,4.0,,0.0,0.99
+PL,10,,Equipement niche à N compteurs,3.1.1.4.1,Nourrice 12 compteurs,U,2.0,,0.0,0.99
+PL,11,,Equipement niche à N compteurs,3.1.1.4.2,Nourrice 13 compteurs,U,2.0,,0.0,0.99
+PL,12,,Equipement niche à N compteurs,3.1.1.4.3,Nourrice 14 compteurs,U,2.0,,0.0,0.99
+PL,13,,Equipement niche à N compteurs,3.1.1.4.4,Nourrice 15 compteurs,U,4.0,,0.0,0.99
+PL,14,,Equipement niche à N compteurs,3.1.1.4.5,Nourrice 16 compteurs,U,1.0,,0.0,0.99
+PL,18,,RESEAU EXTERIEUR,3.1.2.1.1,PVC PN16 DN75 | Le mètre linéaire,ML,22.0,,0.0,0.99
+PL,19,,RESEAU EXTERIEUR,3.1.2.1.2,PVC PN16 DN63 | Le mètre linéaire,ML,22.0,,0.0,0.99
+PL,22,,Tube en PPR,3.1.2.2.1.1,PPR diamètre Ø20 | Le mètre linéaire,ML,3707.0,,0.0,0.99
+PL,23,,Tube en PPR,3.1.2.2.1.2,PPR diamètre Ø25 | Le mètre linéaire,ML,2134.0,,0.0,0.99
+PL,24,,Tube en PPR,3.1.2.2.1.3,PPR diamètre Ø32 | Le mètre linéaire,ML,4323.0,,0.0,0.99
+PL,25,,Tube en PPR,3.1.2.2.1.4,PPR diamètre Ø40 | Le mètre linéaire,ML,2618.0,,0.0,0.99
+PL,26,,Tube en PPR,3.1.2.2.1.5,PPR diamètre Ø63 | Le mètre linéaire,ML,187.0,,0.0,0.99
+PL,27,,Tube en PPR,3.1.2.2.1.6,PPR diamètre Ø75 | Le mètre linéaire,ML,83.0,,0.0,0.99
+PL,29,,Tube en PER,3.1.2.2.2.1,PER Ø13/16 | Le mètre linéaire,ML,7502.0,,0.0,0.99
+PL,30,,Tube en PER,3.1.2.2.2.2,PER Ø16/20 | Le mètre linéaire,ML,2959.0,,0.0,0.99
+PL,31,,Tube en PER,3.1.2.2.3,Coffret de distribution EF/ECS,U,346.0,,0.0,0.99
+PL,33,,Vanne d'arrêt,3.1.2.2.4.1,Ø32,U,148.0,,0.0,0.99
+PL,34,,Vanne d'arrêt,3.1.2.2.4.2,Ø40,U,177.0,,0.0,0.99
+PL,35,,Vanne d'arrêt,3.1.2.2.5,Anti-bélier,U,4.0,,0.0,0.99
+PL,36,,Vanne d'arrêt,3.1.2.2.6,Robinet de puisage,U,40.0,,0.0,0.99
+PL,40,,Tube en PVC,3.1.3.1.1.1,Ø40 | Le mètre linéaire,ML,682.0,,0.0,0.99
+PL,41,,Tube en PVC,3.1.3.1.1.2,Ø50 | Le mètre linéaire,ML,314.0,,0.0,0.99
+PL,42,,Tube en PVC,3.1.3.1.1.3,Ø75 | Le mètre linéaire,ML,79.0,,0.0,0.99
+PL,43,,Tube en PVC,3.1.3.1.1.4,Ø100 et Ø110 | Le mètre linéaire,ML,5148.0,,0.0,0.99
+PL,44,,Tube en PVC,3.1.3.1.1.5,Ø125 | Le mètre linéaire,ML,1307.0,,0.0,0.99
+PL,45,,Tube en PVC,3.1.3.1.1.6,Ø160 | Le mètre linéaire,ML,1100.0,,0.0,0.99
+PL,46,,Tube en PVC,3.1.3.1.1.7,Ø200 | Le mètre linéaire,ML,226.0,,0.0,0.99
+PL,47,,Tube en PVC,3.1.3.1.1.8,Ø250 | Le mètre linéaire,ML,184.0,,0.0,0.99
+PL,48,,Tube en PVC,3.1.3.1.2,Gargouille d'eau pluviale en plomb,U,16.0,,0.0,0.99
+PL,49,,Tube en PVC,3.1.3.1.3,"Siphon de sol en inox, Localisation : Terrasses et balcons",U,201.0,,0.0,0.99
+PL,50,,Tube en PVC,3.1.3.1.4,Siphon de sol en fonte,U,41.0,,0.0,0.99
+PL,51,,Tube en PVC,3.1.3.1.5,Fosse hydrocarbure TAILLE 6,U,1.0,,0.0,0.99
+PL,52,,Tube en PVC,3.1.3.1.6,Fosse hydrocarbure TAILLE 10,U,1.0,,0.0,0.99
+PL,53,,Tube en PVC,3.1.3.1.7,Station de relevage,U,2.0,,0.0,0.99
+PL,57,,POSE : SALLE DE BAIN SUITE PARENTALE,3.1.4.1.1,LAVABO VASQUE,U,162.0,,0.0,0.99
+PL,58,,POSE : SALLE DE BAIN SUITE PARENTALE,3.1.4.1.2,W-C SUSPENDU,U,162.0,,0.0,0.99
+PL,59,,POSE : SALLE DE BAIN SUITE PARENTALE,3.1.4.1.3,EQUIPEMENT DE DOUCHE,U,162.0,,0.0,0.99
+PL,61,,POSE : SALLE DE BAIN 2,3.1.4.2.1,LAVABO VASQUE,U,84.0,,0.0,0.99
+PL,62,,POSE : SALLE DE BAIN 2,3.1.4.2.2,W-C SUSPENDU,U,84.0,,,0.99
+PL,63,,POSE : SALLE DE BAIN 2,3.1.4.2.3,EQUIPEMENT DE DOUCHE,U,84.0,,,0.99
+PL,65,,POSE : SALLE DE BAIN INVITES,3.1.4.3.1,LAVABO VASQUE,U,79.0,,0.0,0.99
+PL,66,,POSE : SALLE DE BAIN INVITES,3.1.4.3.2,W-C SUSPENDU,U,79.0,,0.0,0.99
+PL,67,,POSE : SALLE DE BAIN INVITES,3.1.4.3.3,PLAN VASQUE EN CORIAN,U,74.0,,0.0,0.99
+PL,68,,POSE : SALLE DE BAIN INVITES,3.1.4.3.4,EQUIPEMENT DE DOUCHE,U,1.0,,0.0,0.99
+PL,70,,POSE : SALLE DE BAIN CHAMBRE DE SERVICE,3.1.4.4.1,W-C A L'ANGLAISE,U,21.0,,0.0,0.99
+PL,71,,POSE : SALLE DE BAIN CHAMBRE DE SERVICE,3.1.4.4.2,LAVE MAINS,U,21.0,,0.0,0.99
+PL,72,,POSE : SALLE DE BAIN CHAMBRE DE SERVICE,3.1.4.4.3,EQUIPEMENT DE DOUCHE,U,21.0,,0.0,0.99
+PL,73,,POSE : SALLE DE BAIN CHAMBRE DE SERVICE,3.1.4.5,POSE : BIDET,U,1.0,,0.0,0.99
+PL,74,,POSE : SALLE DE BAIN CHAMBRE DE SERVICE,3.1.4.6,POSE : BAIGNOIRE,U,1.0,,0.0,0.99
+PL,78,,Chauffe eau électrique à accumulation,3.1.5.1.1,150 litres,U,171.0,,0.0,0.99
+PL,81,,PROTECTION CONTRE L'INCENDIE,3.1.6.1,Equipement compteur eau incendie DN80,U,1.0,,0.0,0.99
+PL,82,,PROTECTION CONTRE L'INCENDIE,3.1.6.2,Equipement bache à eau et local technique,U,1.0,,0.0,0.99
+PL,83,,PROTECTION CONTRE L'INCENDIE,3.1.6.3,Station de surpression eau incendie RIA 35m3h,U,1.0,,0.0,0.99
+PL,84,,PROTECTION CONTRE L'INCENDIE,3.1.6.4,Réseau d'incendie en PVC Pression DN75 | Le mètre linéaire,ML,11.0,,0.0,0.99
+PL,85,,PROTECTION CONTRE L'INCENDIE,3.1.6.5,Réseau d'incendie en T.F.G RIA diamétre 40/49 | Le mètre linéaire,ML,37.0,,0.0,0.99
+PL,86,,PROTECTION CONTRE L'INCENDIE,3.1.6.6,Réseau d'incendie en T.F.G CS diamétre 66/76 | Le mètre linéaire,ML,336.0,,0.0,0.99
+PL,87,,PROTECTION CONTRE L'INCENDIE,3.1.6.7,Poste robinet d'incendie armé DN25,U,10.0,,0.0,0.99
+PL,88,,PROTECTION CONTRE L'INCENDIE,3.1.6.8,Extincteur à CO2 de 5 Kg,U,10.0,,0.0,0.99
+PL,89,,PROTECTION CONTRE L'INCENDIE,3.1.6.9,Extincteur à eau pulvérisée de 6 L,U,22.0,,0.0,0.99
+PL,90,,PROTECTION CONTRE L'INCENDIE,3.1.6.10,Prise colonne séche Exterieure DN65,U,4.0,,0.0,0.99
+PL,91,,PROTECTION CONTRE L'INCENDIE,3.1.6.11,Prise colonne séche Interieure DN40,U,68.0,,0.0,0.99
+PL,92,,PROTECTION CONTRE L'INCENDIE,3.1.6.12,Bac à sable,U,2.0,,0.0,0.99
+PL,93,,PROTECTION CONTRE L'INCENDIE,3.1.6.13,Robinet de vidange,U,4.0,,0.0,0.99
+PL,97,,KIT DE FILTRATION,3.1.7.1.1,9 m3/h,U,3.0,,0.0,0.99
+PL,98,,KIT DE FILTRATION,3.1.7.2,Canalisation PVC PN16,,,,0.0,0.95
+PL,99,,KIT DE FILTRATION,3.1.7.2.1,Tout diamètre | Le mètre linéaire,ML,99.0,,0.0,0.99
+PL,100,,KIT DE FILTRATION,3.1.7.3,PIECES A SCELLER,,,,0.0,0.95
+PL,101,,KIT DE FILTRATION,3.1.7.3.1,Bouche de Refoulement,U,12.0,,0.0,0.99
+PL,102,,KIT DE FILTRATION,3.1.7.3.2,Skimmers,U,6.0,,0.0,0.99
+PL,103,,KIT DE FILTRATION,3.1.7.3.3,Bonde de Fond 500x500 mm,U,3.0,,0.0,0.99
+PL,104,,KIT DE FILTRATION,3.1.7.3.4,Prise balai,U,,,,0.96
+PL,105,,KIT DE FILTRATION,3.1.7.3.5,Projecteur étanche,U,6.0,,0.0,0.99
+PL,106,,KIT DE FILTRATION,3.1.7.4,Armoire électrique,U,3.0,,0.0,0.99
+APP SAN,5,,FOURBITURE : SALLE DE BAIN SUITE PARENTALE,3.1.8.1.1,LAVABO VASQUE,U,162.0,,0.0,0.99
+APP SAN,6,,FOURBITURE : SALLE DE BAIN SUITE PARENTALE,3.1.8.1.2,W-C SUSPENDU,U,162.0,,0.0,0.99
+APP SAN,7,,FOURBITURE : SALLE DE BAIN SUITE PARENTALE,3.1.8.1.3,EQUIPEMENT DE DOUCHE,U,162.0,,0.0,0.99
+APP SAN,9,,FOURBITURE : SALLE DE BAIN 2,3.1.8.2.1,LAVABO VASQUE,U,84.0,,0.0,0.99
+APP SAN,10,,FOURBITURE : SALLE DE BAIN 2,3.1.8.2.2,W-C SUSPENDU,U,84.0,,0.0,0.99
+APP SAN,11,,FOURBITURE : SALLE DE BAIN 2,3.1.8.2.3,EQUIPEMENT DE DOUCHE,U,84.0,,0.0,0.99
+APP SAN,13,,FOURBITURE : SALLE DE BAIN INVITES,3.1.8.3.1,LAVABO VASQUE,U,79.0,,0.0,0.99
+APP SAN,14,,FOURBITURE : SALLE DE BAIN INVITES,3.1.8.3.2,W-C SUSPENDU,U,79.0,,0.0,0.99
+APP SAN,15,,FOURBITURE : SALLE DE BAIN INVITES,3.1.8.3.3,PLAN VASQUE EN CORIAN,U,74.0,,0.0,0.99
+APP SAN,16,,FOURBITURE : SALLE DE BAIN INVITES,3.1.8.3.4,EQUIPEMENT DE DOUCHE,U,1.0,,0.0,0.99
+APP SAN,18,,FOURBITURE : SALLE DE BAIN CHAMBRE DE SERVICE,3.1.8.4.1,W-C A L'ANGLAISE,U,21.0,,0.0,0.99
+APP SAN,19,,FOURBITURE : SALLE DE BAIN CHAMBRE DE SERVICE,3.1.8.4.2,LAVE MAINS,U,21.0,,0.0,0.99
+APP SAN,20,,FOURBITURE : SALLE DE BAIN CHAMBRE DE SERVICE,3.1.8.4.3,EQUIPEMENT DE DOUCHE,U,21.0,,0.0,0.99
+APP SAN,21,,FOURBITURE : SALLE DE BAIN CHAMBRE DE SERVICE,3.1.8.5,BIDET,U,1.0,,0.0,0.99
+APP SAN,22,,FOURBITURE : SALLE DE BAIN CHAMBRE DE SERVICE,3.1.8.6,BAIGNOIRE,U,1.0,,0.0,0.99
+CVC,7,,Unité Extérieure,3.2.1.1.1.1,12 kW,U,104.0,,0.0,0.99
+CVC,8,,Unité Extérieure,3.2.1.1.1.2,14 kW,U,19.0,,0.0,0.99
+CVC,9,,Unité Extérieure,3.2.1.1.1.3,"15,5 kW",U,28.0,,0.0,0.99
+CVC,10,,Unité Extérieure,3.2.1.1.1.4,22.4 kW,U,1.0,,0.0,0.99
+CVC,11,,Unité Extérieure,3.2.1.1.1.5,28kW,U,2.0,,0.0,0.99
+CVC,13,,Unité Intérieure,3.2.1.1.2.1,"Gainable 2,8 kW",U,299.0,,0.0,0.99
+CVC,14,,Unité Intérieure,3.2.1.1.2.2,"Gainable 3,6 kW",U,1.0,,0.0,0.99
+CVC,15,,Unité Intérieure,3.2.1.1.2.3,"Gainable 4,5 kW",U,110.0,,0.0,0.99
+CVC,16,,Unité Intérieure,3.2.1.1.2.4,"Gainable 5,6 kW",U,12.0,,0.0,0.99
+CVC,17,,Unité Intérieure,3.2.1.1.2.5,"Gainable 7,1 kW",U,30.0,,0.0,0.99
+CVC,18,,Unité Intérieure,3.2.1.1.2.6,"Gainable 11,2 kW",U,1.0,,0.0,0.99
+CVC,19,,Unité Intérieure,3.2.1.1.2.7,Gainable 14 kW,U,2.0,,0.0,0.99
+CVC,20,,Unité Intérieure,3.2.1.2,Liaisons frigorifiques | Le mètre linéaire,ML,4818.0,,0.0,0.99
+CVC,22,,EVACUATION CONDENSAT EN PVC,3.2.1.3.1,Diamètre 32 | Le mètre linéaire,ML,1502.0,,0.0,0.99
+CVC,24,,GAINE,3.2.1.4.1,Gaine en Pré-isolée | Le mètre carré,M2,2866.0,,0.0,0.99
+CVC,26,,GAINE CYLINDRIQUE EN TOLE D'ACIER GALVANISE CALORIFUGE,3.2.1.4.2.1,Ø 200 mm | Le mètre linéaire,ML,319.0,,0.0,0.99
+CVC,28,,GAINE EN FLEXIBLE CALORIFUGE,3.2.1.4.3.1,Ø 200 mm | Le mètre linéaire,ML,6371.0,,0.0,0.99
+CVC,33,,Ventilateur de VMC,3.2.2.1.1.1,≤ 500 m3/h,U,218.0,,0.0,0.99
+CVC,35,,GAINES,3.2.2.2.1,Gaine en tôle rectangulaire simple peau | Le mètre carré,M2,200.0,,0.0,0.99
+CVC,37,,Gaine circulaire en tôle d'acier galvanisée,3.2.2.2.2.1,Ø 100 mm | Le mètre linéaire,ML,428.0,,0.0,0.99
+CVC,38,,Gaine circulaire en tôle d'acier galvanisée,3.2.2.2.2.2,Ø 125 mm | Le mètre linéaire,ML,189.0,,0.0,0.99
+CVC,39,,Gaine circulaire en tôle d'acier galvanisée,3.2.2.2.2.3,Ø 160 mm | Le mètre linéaire,ML,334.0,,0.0,0.99
+CVC,40,,Gaine circulaire en tôle d'acier galvanisée,3.2.2.2.2.4,Ø 200 mm | Le mètre linéaire,ML,233.0,,0.0,0.99
+CVC,41,,Gaine circulaire en tôle d'acier galvanisée,3.2.2.2.2.5,Ø 250 mm | Le mètre linéaire,ML,13.0,,0.0,0.99
+CVC,43,,GRILLES ET DIFFUSEURS DE VENTILATION,3.2.2.3.1,Bouche d'extraction VMC,U,337.0,,0.0,0.99
+CVC,47,,Exutoire de fumée,3.2.3.1.1,"S.UTILE = 1,0 m²",U,6.0,,0.0,0.99
+CVC,49,,Volet à portillon,3.2.3.2.1,500x400,U,53.0,,0.0,0.99
+CVC,50,,Volet à portillon,3.2.3.2.2,700x600,U,28.0,,0.0,0.99
+CVC,52,,Volet à Tunnel,3.2.3.3.1,700x600,U,6.0,,0.0,0.99
+CVC,53,,Volet à Tunnel,3.2.3.4,Cartouche pare-flamme,U,218.0,,0.0,0.99
+CVC,55,,Grille,3.2.3.5.1,"GRILLE EXT DSF 0,12m²",U,26.0,,0.0,0.99
+CVC,56,,Grille,3.2.3.5.2,"GRILLE EXT DSF 0,11m²",U,38.0,,0.0,0.99
+CVC,57,,Grille,3.2.3.5.3,"VB S.UTILE =0,24 m²",U,20.0,,0.0,0.99
+CVC,58,,Grille,3.2.3.5.4,"VB S.UTILE =0,31m²",U,10.0,,0.0,0.99
+CVC,60,,VENTILATEURS,3.2.3.6.1,Ventilateur axial EXT 38 880 m³/h,U,2.0,,0.0,0.99
+CVC,61,,VENTILATEURS,3.2.3.6.2,Ventilateur axial EXT 29 520 m³/h,U,2.0,,0.0,0.99
+CVC,62,,VENTILATEURS,3.2.3.6.3,Ventilateur axial EXT 40 320 m³/h,U,2.0,,0.0,0.99
+CVC,63,,VENTILATEURS,3.2.3.6.4,Ventilateur axial AN 25 920 m³/h,U,4.0,,0.0,0.99
+CVC,64,,VENTILATEURS,3.2.3.6.5,Ventilateur axial AN 17 550 m³/h,U,4.0,,0.0,0.99
+CVC,65,,VENTILATEURS,3.2.3.7,Gaine COUPE FEU 2H DESENFUMAGE | Le mètre carré,M2,5005.0,,0.0,0.99

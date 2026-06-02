@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bordereau-extractor"
+version = "0.1.0"
+description = "Extraction robuste de lignes de bordereaux / BPU / DPGF pour projets de construction."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "openpyxl>=3.1.2",
+  "pandas>=2.2.0",
+  "xlrd>=2.0.1",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["bordereau_extractor*"]

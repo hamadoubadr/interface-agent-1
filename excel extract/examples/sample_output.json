@@ -1,0 +1,82 @@
+{
+  "source_file": "C:/data/bordereau_fluides.xlsx",
+  "sheets_analyzed": [
+    "BPU LOT FLUIDES",
+    "RECAP"
+  ],
+  "selected_sheets": [
+    "BPU LOT FLUIDES"
+  ],
+  "items": [
+    {
+      "sheet_name": "BPU LOT FLUIDES",
+      "row_index": 12,
+      "line_type": "chapter",
+      "lot": "LOT FLUIDES",
+      "chapter": "PLOMBERIE SANITAIRE",
+      "subchapter": null,
+      "code_article": "1",
+      "designation": "PLOMBERIE SANITAIRE",
+      "unite": null,
+      "quantite": null,
+      "prix_unitaire": null,
+      "montant": null,
+      "raw_row": {
+        "Article": "1",
+        "Designation": "PLOMBERIE SANITAIRE"
+      },
+      "confidence": 0.73
+    },
+    {
+      "sheet_name": "BPU LOT FLUIDES",
+      "row_index": 18,
+      "line_type": "item",
+      "lot": "LOT FLUIDES",
+      "chapter": "PLOMBERIE SANITAIRE",
+      "subchapter": "Distribution EF/EC",
+      "code_article": "1.2.3",
+      "designation": "Fourniture et pose de tube PPR PN20 diamètre 25 mm",
+      "unite": "ML",
+      "quantite": 120.0,
+      "prix_unitaire": 95.5,
+      "montant": 11460.0,
+      "raw_row": {
+        "Article": "1.2.3",
+        "Désignation": "Fourniture et pose de tube PPR PN20 diamètre 25 mm",
+        "U": "ml",
+        "Qté": "120",
+        "P.U": "95,50",
+        "Montant": "11 460,00"
+      },
+      "confidence": 0.94
+    }
+  ],
+  "warnings": [
+    "Feuille RECAP dépriorisée : densité tabulaire faible."
+  ],
+  "stats": {
+    "total_rows_read": 184,
+    "total_items_extracted": 96,
+    "total_lines_extracted": 133,
+    "selected_sheet_count": 1
+  },
+  "sheet_summaries": [
+    {
+      "sheet_name": "BPU LOT FLUIDES",
+      "relevant_score": 0.89,
+      "table_score": 0.92,
+      "sheet_confidence": 0.92,
+      "rows_read": 184,
+      "rows_extracted": 133,
+      "mapping_columns": [
+        "code_article",
+        "designation",
+        "montant",
+        "prix_unitaire",
+        "quantite",
+        "unite"
+      ],
+      "warnings": []
+    }
+  ]
+}

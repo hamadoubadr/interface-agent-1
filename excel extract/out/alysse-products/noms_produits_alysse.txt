@@ -1,0 +1,93 @@
+﻿Tuyau P.V.C évacuation | diam.40
+Tuyau P.V.C évacuation | diam.50
+Tuyau P.V.C évacuation | diam.75
+Tuyau P.V.C évacuation | diam.110
+Tuyau P.V.C évacuation | diam.125 à 160
+Tuyau P.V.C pression | diam.160
+Siphon de sol
+Garde grève (jardinière) | diam.110
+Station de Relevage | Débit unitaire: 2 x 25,0 l/s P= 10 Mce | (Pression à verifié par l'entreprise)
+Station de Relevage | Débit unitaire: 2 x 25,0 l/s P= 25 Mce (avec broyeur) | (Pression à verifié par l'entreprise)
+Equipement compteur d'eau | Compteur eau potable
+Tube Polypropylene PPR | diam.25 à 32
+Tube Polypropylene PPR | diam.40 à 50
+Vanne d'arrêt | diam.25 à 32
+Vanne d'arrêt | diam.40 à 50
+Chauffe eau électrique | 15 litres (sanitaires commun)
+Chauffe eau électrique | 30 litres (cuisine)
+Chauffe eau électrique | 50 litres (sanitaires PDG)
+Anti-belier
+Robinet de puisage | diam.20
+Equipement bassin d'eau | Citerne en PEHD bleu
+Attente Arrosage
+Tube polyethylene ligne bleu | diam.32 à 40
+Tube polyethylene ligne bleu | diam.50 à 63
+Evier
+Lavabo-Vasque
+WC-Siège à L’anglaise Suspendu
+Bidet
+Douche à l'Italienne
+Porte rouleau wc
+Distributeur de savon liquide
+Séche Mains à Air Pulse
+Glace Miroir
+Extincteurs portatifs | extincteur à CO2 de 2 kg
+Extincteurs portatifs | extincteur à poudre polyvalente de 6 kg
+Extincteurs portatifs | extincteur à eau pulverisee de 6 L
+bac à sable
+Poteau incendie
+Groupe exterieur VRV 2 TUBES | Puissance frigorifique sera déterminer en fonction de la puissance sensible et la longueur du tubing | Pf =42 à 45 KW à 35°C ext - BUREAUX N/E | Puissance à définir par logiciel fournisseur à 100%
+Régulation | Télécommande FILAIRE à cable
+Kit de raccordement
+Tubes frigorifique calorifugées | 02 tubes
+Bus de communication | 02 tubes
+Evacuation condensat | diam.32
+Evacuation condensat | diam.50
+Unité Gainable 02 Tubes | Ps = 2,0 à 2,8 Kw | Pr= 50 à 150 Pas Pression à vérifier par l'entreprise
+Unité Gainable 02 Tubes | Ps = 3,2 à 3,7 Kw | Pr= 50 à 150 Pas Pression à vérifier par l'entreprise
+Unité Gainable 02 Tubes | Ps = 4,0 à 4,6 Kw | Pr= 50 à 150 Pas Pression à vérifier par l'entreprise
+Unité Gainable 02 Tubes | Ps = 5,0 à 6,0 Kw | Pr= 50 à 150 Pas Pression à vérifier par l'entreprise
+Pt = 2,0 à 3,0 Kw | Pr= Pression à vérifier par l'entreprise
+Pt = 4,2 à 5,2 Kw | Pr= Pression à vérifier par l'entreprise
+Pt = 6,0 à 7,1 Kw | Pr= Pression à vérifier par l'entreprise
+Pt = 9 000 btu
+Pt = 12 000 btu
+Gaine en laine de Verre (Fiber Glass) | le mètre carré
+Débit = 700 à 835 m3/h
+Débit = 1500 m3/h
+Débit = 200 à 270 m3/h
+Débit = 500 à 5400 m3/h
+Gaine flexible calorifugée en aluminium | diam.160 à 200
+Gaine circulaire spiralée | diam.100 à 125
+Gaine circulaire spiralée | diam.160 à 200
+Gaine rectangulaire en tole galvanisée | le mètre carré
+Caisson d'air neuf | Débit = 1975 à 2000 m3/h Pr = 20mmCE | (Pression à verifié par l'entreprise)
+Clapet de dosage | diam.100 à 125
+Clapet de dosage | diam.160 à 200
+Clapet pare-flamme 1/2H | diam.200
+Clapet pare-flamme 1/2H | dim.200×200 à 300×200
+Armoire éléctrique et cablage | Armoire éléctrique (TERRASSE) | CLIM + VENTILATION TERRASSE
+Armoire éléctrique et cablage | Cable d'alimentation et chemin de cable
+Caisson d'extraction V.M.C | Débit = 200 m3/h Pr = 20mmCE | (Pression à verifié par l'entreprise)
+Caisson d'extraction V.M.C | Débit = 360 m3/h Pr = 20mmCE | (Pression à verifié par l'entreprise)
+Ventilateur de gaine | Débit = 30 à 60 m3/h Pr = 20mmCE | (Pression à verifié par l'entreprise)
+Ventilateur de gaine | Débit = 150 m3/h Pr = 20mmCE | (Pression à verifié par l'entreprise)
+Gaine circulaire spiralée | diam.100 à 125
+Gaine circulaire spiralée | diam.160 à 200
+Gaine en tole noire calorifugée (cuisine) | le mètre carré
+Ventouse d'extraction | Débit : 30 m3/h
+Ventouse d'extraction | Débit : 60 m3/h
+Grille d'extraction | Débit : 100 à 150 m3/h
+Grille exterieure | Débit : 150 m3/h
+Grille exterieure | Débit : 360 m3/h
+Clapet pare-flamme 1/2H | diam.100 à 125
+Clapet anti retour | diam.100 à 125
+Caisson d'extraction de désenfumage 400°C/2H | Débit :12500/6250 + 10 % m3/h à 45 mmCE (parking) | (Pression à verifié par l'entreprise)
+Caisson d'extraction de désenfumage 400°C/2H | Débit : 600 m3/h à 45 mmCE (cuisine) | (Pression à verifié par l'entreprise)
+Coffret de relayage
+Arrêts pompiers et réarmements | Arrêts Pompier
+Arrêts pompiers et réarmements | Réarmement
+Diffuseur de désenfumage | Débit = 4 167 m3/h
+Gaine de desenfumage | le mètre carré
+Exutoire | dim: 1m² utile
+T.V.A 20% =
