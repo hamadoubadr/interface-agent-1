@@ -1,34 +1,42 @@
-# Requirements optimisés pour Streamlit Cloud (1GB RAM)
+﻿# Core dependencies
+streamlit>=1.32.0
+pandas>=2.2.0
+numpy>=1.24.0
 
-# Core Streamlit
-streamlit==1.32.0
+# PDF processing
+pdfplumber>=0.10.0
+pypdf>=4.0.0
+PyMuPDF>=1.24.0
 
-# Data processing
-pandas==2.2.0
-numpy==1.24.0
-
-# PDF processing (léger)
-pdfplumber==0.10.0
-pypdf==4.0.0
-
-# LLM APIs
-openai==1.12.0
-requests==2.31.0
-
-# Embeddings local (léger)
-sentence-transformers==2.2.0
-
-# Excel processing
-openpyxl==3.1.2
-
-# Langchain minimal
-langchain==0.1.0
-langchain-community==0.0.0
-langchain-chroma==0.0.0
-langchain-text-splitters==0.0.0
+# LLM and embeddings
+openai>=1.12.0
+sentence-transformers>=2.2.0
+langchain>=0.1.0
+langchain-community>=0.0.0
+langchain-chroma>=0.0.0
+langchain-text-splitters>=0.0.0
+langchain-google-genai>=0.0.0
 
 # Vector database
-chromadb==0.4.0
+chromadb>=0.4.0
 
-# PDF generation (optionnel)
-reportlab==4.0.0
+# Excel processing
+openpyxl>=3.1.2
+xlrd>=2.0.1
+
+# PDF generation
+reportlab>=4.0.0
+
+# HTTP requests
+requests>=2.31.0
+
+# OCR (optional)
+easyocr>=1.7.0
+
+# Development tools
+pytest>=8.0.0
+black>=24.0.0
+ruff>=0.3.0
+
+protobuf>=4.25.0,<5.0.0
+chromadb>=0.5.0
