@@ -68,8 +68,13 @@ def check_dependencies():
     all_ok = True
     for dep, version in dependencies:
         try:
-            module = __import__(dep)
-            print(f"  [OK] {dep}{version}")
+            if dep == "sentence-transformers":
+                # Test spécifique pour sentence-transformers
+                import sentence_transformers
+                print(f"  [OK] {dep}{version}")
+            else:
+                module = __import__(dep)
+                print(f"  [OK] {dep}{version}")
         except ImportError:
             print(f"  [ERREUR] {dep}{version} - NON INSTALLÉ")
             all_ok = False
