@@ -1,5 +1,7 @@
 ﻿streamlit
 langchain
 langchain-community
-langchain-chroma
 langchain-google-genai
+chromadb==0.5.3
+langchain-chroma==0.1.1
+protobuf==4.25.3
